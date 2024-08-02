@@ -1,0 +1,12 @@
+.kontener {
+	display: flex;
+	align-items: flex-start;
+}
+
+.biodata {
+	margin-left: 13px;
+}
+
+.tabel {
+	font-size: 20px;
+}
